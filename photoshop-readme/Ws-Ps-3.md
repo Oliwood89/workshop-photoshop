@@ -12,16 +12,14 @@ Ouvrez l'image du premier lien, c'est-à-dire la photo de l'homme de profil.
 <br/>
 La première étape est d'éffectuer un détourage. Nous allons séparer la personne sur la photo, du background. Pour des raisons de simplicité, nous allons utiliser l'outil de sélection rapide
 <br/>
-
 <p align="center">
-<img src="../assets/img/img1.png" alt="img-1">
-</p>  
+<img src="../assets/img/Img1.png" alt="img-1">
+</p>
+<br/>
 <br/>
 <br/>
 <br/>
 Nous allong survoler le modèle approximativement, pour que ça ressemble à ceci :
-<br/>
-<br/>
 <p align="center">
 <img src="../assets/img/img2.png" alt="img-2">
 </p>
@@ -30,7 +28,7 @@ Sur l'image ce n'est pas très perceptible mais on voit le trait de sélection, 
 <br/>
 <br/>
 <br/>
-Ensuite, cliquez sur " Selectionner et masquer "
+Ensuite, cliquez sur "Selectionner et masquer"
 <br/>
 <p align="center">
 <img src="../assets/img/img3.png" alt="img-3">
@@ -54,10 +52,10 @@ Ensuite, sur la droite du logiciel, mettez votre "Rayon ou Radius" à environ 40
 <p align="center">
 <img src="../assets/img/img5.png" alt="img-5">
 </p>
-
 <br/>
 <br/>
-
+<br/>
+<br/>
 Cliquez sur "Ok". Nous avons une selection, mais maintenant nous voulons appliquer le masque calque dessus.
 
 <a href="photoshop-readme/Ws-Ps-4.md">La suite ici -></a>

@@ -14,7 +14,12 @@
 
 - <a href="photoshop-readme/Ws-Ps-1.md">Introduction</a>
 - <a href="photoshop-readme/Ws-Ps-2.md">Installation et ressources</a>
-- <a href="photoshop-readme/Ws-Ps-3.md">LE travail</a>
+- <a href="photoshop-readme/Ws-Ps-3.md">Le montage qui débute avec le détourage</a>
+- <a href="photoshop-readme/Ws-Ps-4.md">Retouches du calque de fusion</a>
+- <a href="photoshop-readme/Ws-Ps-5.md">Recadrage de photos et placement du fond</a>
+- <a href="photoshop-readme/Ws-Ps-6.md">Retouches du visage et fin du montage statique</a>
+- <a href="photoshop-readme/Ws-Ps-7.md">Début du montage vidéo</a>
+- <a href="photoshop-readme/Ws-Ps-5.md">Retouches de la séquence vidéo et fin du montage vidéo</a>
 
 # Introduction
 

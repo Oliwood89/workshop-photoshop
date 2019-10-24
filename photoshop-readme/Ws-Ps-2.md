@@ -8,9 +8,11 @@ Je vous invite donc à suivre le tutoriel de Cassandra, si ce n'est pas déjà f
 
 Voici le lien :  
 
-https://github.com/Seizenka/Workshop-UX-Design/blob/master/installation.md  
+https://github.com/Seizenka/Workshop-UX-Design/blob/master/installation.md
 
-Ce tutoriel est pour **les utilisateurs de Linux !**  
+
+Ce tutoriel est pour **les utilisateurs de Linux !**
+
 
 Pour **les utilisateurs de Windows**, il faut se procurer le PhotoShop cc2019 auprès de Massimo.  
 
