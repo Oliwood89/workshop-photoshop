@@ -31,4 +31,4 @@ Donc, pour ceux qui souhaitent effectuer l'animation, vous devez télécharger c
 
 https://www.videvo.net/video/time-lapse:-day-to-night-city/2644/  
 
-<a href="./Ws-Ps-3.md">Vous êtes prêts ? C'est par ici</a>
+<a href="photoshop-readme/Ws-Ps-3.md">Vous êtes prêts ? C'est par ici -></a>

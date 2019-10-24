@@ -12,9 +12,9 @@
 ## Sommaire
 ---
 
-- <a href="./Ws-Ps-1.md">Introduction</a>
-- <a href="./Ws-Ps-2.md">Installation et ressources</a>
-- <a href="./Ws-Ps-3.md">LE travail</a>
+- <a href="photoshop-readme/Ws-Ps-1.md">Introduction</a>
+- <a href="photoshop-readme/Ws-Ps-2.md">Installation et ressources</a>
+- <a href="photoshop-readme/Ws-Ps-3.md">LE travail</a>
 
 # Introduction
 
@@ -40,4 +40,4 @@ Voici le résultat final :
 Ça en jette, n'est-ce pas ?
 Pas de panique, on va vous expliquer comment réaliser ce montage.
 
-<a href="./Ws-Ps-2.md">Mais avant de commencer...</a>
+<a href="photoshop-readme/Ws-Ps-2.md">Mais avant de commencer...</a>
