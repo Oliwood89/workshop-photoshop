@@ -12,7 +12,7 @@
 ## Sommaire
 ---
 
-- <a href="photoshop-readme/Ws-Ps-1.md">Introduction</a>
+- <a href="README.md">Introduction</a>
 - <a href="photoshop-readme/Ws-Ps-2.md">Installation et ressources</a>
 - <a href="photoshop-readme/Ws-Ps-3.md">Le montage qui débute avec le détourage</a>
 - <a href="photoshop-readme/Ws-Ps-4.md">Retouches du calque de fusion</a>
