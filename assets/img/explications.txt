@@ -1,0 +1,163 @@
+Alors bonjour et bienvenue sur ce workshop sur Adobe Photoshop.
+Le goal de ce workshop est de vous faire découvrir un exemple de ce qu'on peut faire sur photoshop.
+En sachant que ce logiciel mériterait des centaines voir des milliers d'heures dessus pour vraiment en
+faire le tour. 
+
+Alors ici nous allons faire un photo montage, un exemple parmis des centaines de milliers d'autre,
+mais il faut bien faire un choix, n'est-ce pas ?
+Pour un soucis de simplicité et d'uniformité, utilisons les mêmes ressources.
+
+Enregistrez cette photo : https://unsplash.com/photos/XHVpWcr5grQ
+Et celle-ci : https://unsplash.com/photos/4u2U8EO9OzY
+
+Pour ceux qui sont sur photoshop cc2019 ( windows du coup ), nous pouvons aller plus loin, en utilisant
+une vidéo de type "timepaste" en guise de fond, et donc créer une image animée.
+Et donc téléchargez cette vidéo, au lieu de la photo de la ville :
+https://www.videvo.net/video/time-lapse:-day-to-night-city/2644/
+Pour vous, suivez le tuto de la même manière, excepté l'étape où il faudra replacer et redimensionner
+l'image de la ville, à ce point précis je vous dirais quoi faire différemment.
+
+Avant toute chose, n'hésitez pas à utiliser les raccourcis de "ctrl + -" ou "ctrl + +" pour zoomer
+et dézoomer.
+
+Alors, ouvrez Photoshop :
+- Fichier -> ouvrir -> ...
+ou
+Drag and drop la photo du dossier directement dans Photoshop
+
+Step one : Le détourage
+Nous allons donc séparer la personne sur la photo, du background. 
+Pour des raisons de simplicité, nous allons utilisé l'outil de sélection rapide [img1]
+
+Avec lequel nous allong survoler le modèle approximativement, pour que ça ressemble à ceci [img2]
+Sur l'image ce n'est pas très perceptible mais on voit le trait de selection, si l'on prête attention
+
+Ensuite, cliquez sur " Selectionner et masquer " [img3]
+Cela va nous permettre d'améliorer la selection des cheveux, avec plus de précision
+Cochez la case rayon dynamique et n'hésitez pas à augmenter la taille de votre outil [img4]
+
+Ensuite passons sur les cheveux et la barbe ( vers l'extérieur ) pour récupérer la selection sur
+ces cheveux et poils de barbe que nous n'avions pas selectionner avec l'outil sélection rapide.
+
+Ensuite, sur la droite, du logiciel, mettez votre " Rayon ou Radius " à environ 40 pixel, pour améliorer
+davantage encore la selection.
+Pour avoir un résultat à peu près comme celui-ci [img5]
+Cliquez sur "Ok". Nous avons une selection, mais maintenant nous voulons appliqué le masque calque dessus.
+
+[img6]
+
+Cliquez sur le bouton qui est entouré sur le screen, ce qui devrait donner le même résultat qui est aussi
+présent sur le screenshot précédent.
+
+Maintenant faites un Alt+Clic sur la forme en noir et blanc qui est apparue à côté de notre calque.
+Ce qui nous permet d'entrer dans le mode masque de fusion.
+
+Nous allons enlever maintenant toute les zones ' grise ' que l'on peut voir.
+Pour se faire, 2 méthodes, si vous avez des zones grises EN DEHORS de la selection
+Selectionnez l'outil " Densité + " régler sur "Tons foncés" et avec une exposition de 40 à 50% [img7]
+
+Ce n'est pas mon cas mais je sais que c'est possible, si c'est le cas repassez donc sur ces zones qui sont
+en dehors de la sélection, afin qu'il ne reste plus que du noir à ces endroits.
+
+L'autre partie est de sélectionner l'outil " Densité - " ( wow quelle surprise ! ) et nous allons faire la
+même chose mais cette fois-ci à l'intérieur de la selection ( donc du blanc ).
+Faites attention à bien sélectionner " Tons clairs " avec aussi une exposition de 40-50% [img8]
+
+Pour avoir un résultat proche de celui-ci [img9]
+
+Maintenant nous pouvons recliquer sur notre calque image de base, à gauche de celui de sélection,
+pour nous faire quitter le mode masque de fusion et retourner sur notre image de base, avec notre fond
+en transparent ( si c'est un quadrillage gris et blanc, c'est bien transparent )
+
+Maintenant allons créer un nouveau fichier
+donc fichier -> nouveau ( ou ctrl+N)
+avec les caractéristiques suivantes :
+Largeur : 1920 pixels
+Hauteur : 1080 pixels
+Résolution : 300
+Mode colorimétrique : Couleur RVB, 8 bits
+Contenu de l'arrière-plan : Blanc
+
+Une fois ce fichier créer et ouvert dans Photoshop, nous allons prendre l'outil de déplacement, qui est le
+raccourci " V " , et déplacer notre photo vers le nouveau fichier.
+
+Une fois fait, vous allez constater que la photo est bien trop grande par rapport à notre nouveau fichier.
+
+Faite un ou plusieurs ctrl+- pour dézoomer pas mal, suivi d'un ctrl+T [img10]
+
+Ensuite, vous allez vers l'un des coins du rectangle de selection qui entoure notre photographie,
+et, tout en restant appuyé sur la touche "alt" , vous allez réduire sa taille avec votre souris, pour
+arriver à ce résultat [img11]
+Validez avec la touche "enter" ou bien en cliquer sur le 'V' en haut.
+
+
+N'hésitez pas à le baisser davantage hors du cadre afin que les épaules n'aient pas l'air d'être découpées.
+[img12]
+
+Nous allons maintenant créer un nouveau background pour notre photo.
+Selectionnez le calque du background en cliquant dessus, ensuite, cliquer sur l'îcone en bas à droite,
+qui est juste à droite de l'outil masque que nous avons utilisé précédemment, et choisir couleur unie.
+[img13]
+
+Lui mettre un background d'un gris légèrement bleuté, notez la même référence que moi sur
+le screenshot ci-dessous
+[img14]
+
+On peut ensuite supprimer l'ancien calque background blanc, en faisant clique droit -> supprimer le calque
+ou bien alors en le faisant glisser vers la poubelle en bas à droite.
+
+Ensuite faites glisser l'image de la ville dans Photoshop, faire un ctrl+T, rester appuyer sur la touche
+alt et avec le coin redimensionner un peu la ville, placez là comme bon vous semble tant qu'elle recouvre
+complètement notre modèle. [img15]
+
+POUR CEUX QUI FONT LE TUTO ANIMÉ, veuillez glisser la vidéo dans Photoshop, redimensionner là, et 
+placez là de sortes à ce que la route soit vraiment l'élément central, et qu'elle s'aligne
+avec la ligne de l'épaule de notre modèle. Pour la suite, continuez le tuto jusqu'à la fin.
+Aussi, cliquez sur le 'link' entre le masque et l'image que vous ajoutez à l'étape suivante, pour
+pouvoir bouger la vidéo indépendamment du masque de fusion. [img22]
+
+Ensuite, nous allons appliquer le même masque de selection que nous avons sur notre calque avec notre 
+modèle. Mettez votre souris par dessus le masque, et maintenez la touche alt enfoncée et faites le
+glisser sur le calque avec la photographie de la ville.
+Vous devriez avoir ce résultat [img16]
+
+Ensuite, nous allons créer une copie de notre calque avec la photographie, en pressant sur la touche alt
+et en le faisant glisser tout au dessus des autres calques. [img17]
+
+Ensuite, cliquez sur le ' normal ' situé au dessus du calque, et choisissez l'option ' éclaircir '. [img18]
+
+Nous allons ensuite séléctionner le masque du calque sur lequel nous venons d'appliquer ' éclaircir '
+Prendre un pinceau normal ( raccourci B ), la couleur noire et environ 25% d'opacité. 
+N'hésitez pas à augmenter la taille de votre pinceau pour plus de facilité et de rapidité,
+nous allons repasser sur le côté droit de l'image pour que nous ne voyons plus que la ville. [img19]
+
+Nous allons maintenant faire réapparaître un peu mieux le visage et la barbe de notre modèle.
+Pour ce faire nous allons selectionner le masque du calque de la ville. Et utiliser la même méthode 
+avec le pinceau de couleur avec la couleur noire. [img20]
+
+Revenons sur le masque au dessus, et enlevons davantage du visage afin qu'il se fonde encore mieux avec le
+fond [img21]
+
+Et voilà ! Pour vous les utilisateurs linux, cela s'arrête ici. Mais pour ceux sur windows, continuons !
+
+Maintenant vous allez faire une copie de la ville, en maintenant la touche alt et en faisant glisser 
+le calque et placer la copie en dessous du calque 1, mais au dessus du fond, 
+supprimer le masque de fusion dessus en faisant un clique droit -> supprimer le masque.
+Et enfin, allez dans image -> réglages -> noir et blanc. N'hésitez pas à user du ctrl+T pour que la ville
+prenne bien tout le background. [img23]
+
+Nous allons maintenant ajouter un flou gaussien, allez dans Filtre -> Flou -> Flou gaussien. [img24]
+Choisissez un rayon de 9,0px pour votre flou.
+Et enfin, mettez le blending mode sur 'Lumière tamisée' [img25]
+Vous pouvez ensuite mettre l'opacité sur 50%, je préfère, mais vous pouvez laisser tel quel.
+À chacun ses préférences.
+
+Nous allons maintenant selectionner le premier calque de la liste, et selectionner, comme tout à l'heure
+à droite de l'îcone du masque de fusion, et séléctionner les ' niveaux ' [img26]
+
+Sur la petite fenêtre des niveaux qui s'est ouverte, nous allons cliquer sur le RVB, séléctionner le rouge
+et rajouter un peu de rouge sur le calque, pour donner un peu plus de chaleur aux couleurs [img27]
+Selectionner le bleu, et faire la même chose ( jusqu'à ce que ça vous plaise ).
+
+
+
