@@ -44,4 +44,4 @@ Nous allons donc enfin animer tout ça ! Allez dans fenêtre -> Montage pour fai
 <img src="../assets/img/img28.png" alt="img-28">
 </p>
 
-<a href="photoshop-readme/Ws-Ps-8.md">Pour l'animation, c'est pas ici -></a>
+<a href="Ws-Ps-8.md">Pour l'animation, c'est par ici -></a>

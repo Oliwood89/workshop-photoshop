@@ -47,4 +47,4 @@ Pour avoir un résultat proche de celui-ci :
 <br/>
 Maintenant nous pouvons recliquer sur notre calque image de base, à gauche de celui de sélection, pour nous faire quitter le mode masque de fusion et retourner sur notre image de base, avec notre fond en transparent (si c'est un quadrillage gris et blanc, c'est bien transparent.).
 
-<a href="photoshop-readme/Ws-Ps-5.md">On continue -></a>
+<a href="Ws-Ps-5.md">On continue -></a>

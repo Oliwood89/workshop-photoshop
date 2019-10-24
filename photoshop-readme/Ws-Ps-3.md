@@ -58,4 +58,4 @@ Ensuite, sur la droite du logiciel, mettez votre "Rayon ou Radius" à environ 40
 <br/>
 Cliquez sur "Ok". Nous avons une selection, mais maintenant nous voulons appliquer le masque calque dessus.
 
-<a href="photoshop-readme/Ws-Ps-4.md">La suite ici -></a>
+<a href="Ws-Ps-4.md">La suite ici -></a>

@@ -81,4 +81,4 @@ pouvoir bouger la vidéo indépendamment du masque de fusion.
 </p>
 
 
-<a href="photoshop-readme/Ws-Ps-6.md">Vous suivez toujours ? Ne lâchez rien -></a>
+<a href="Ws-Ps-6.md">Vous suivez toujours ? Ne lâchez rien -></a>

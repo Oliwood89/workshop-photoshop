@@ -56,4 +56,4 @@ Et voilà ! Pour ceux qui souhaitaient faire simplement l'image statique, félic
 <br/>
 Pour ceux qui désirent le faire avec la vidéo, on continue !
 
-<a href="photoshop-readme/Ws-Ps-7.md">Par ici, je vous prie -></a>
+<a href="Ws-Ps-7.md">Par ici, je vous prie -></a>
