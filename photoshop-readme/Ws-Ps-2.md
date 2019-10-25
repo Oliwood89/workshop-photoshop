@@ -18,7 +18,7 @@ Pour **les utilisateurs de Windows**, il faut se procurer le PhotoShop cc2019 au
 
 Une fois l'installation effectuée, pour réaliser le montage tant attendu, il vous faut deux images que voici :  
 
-https://unsplash.com/photos/XHVpWcr5grQ
+https://unsplash.com/photos/XHVpWcr5grQ <br/>
 https://unsplash.com/photos/4u2U8EO9OzY
 
 
